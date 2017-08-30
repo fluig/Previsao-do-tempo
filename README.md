@@ -1,10 +1,8 @@
 # Previsao do tempo
 
-Widgetque que exibe a previsão do tempo da cidade configurada para consulta. As informações são fornecidas por uma API Rest free disponível no site "Open Weather Map".
-
 Objetivo
 ----
-Exibir a previsão do tempo de uma cidade em uma widget desenvolvida no fluig.
+Widget que exibe a previsão do tempo da cidade configurada para consulta. As informações são fornecidas por uma API Rest free disponível no site "Open Weather Map".
 
 > **Desenvolvido na release:** 1.6.1
 
