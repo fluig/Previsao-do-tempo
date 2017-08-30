@@ -1,0 +1,24 @@
+application.type=widget
+application.code=weather
+application.title=Weather
+application.description=Show weather from a specific city
+application.category=Fluig Store
+application.renderer=freemarker
+application.uiwidget=true
+application.icon=icon.png
+application.mobileapp=true
+
+developer.code=brunobulnes
+developer.name=Bruno Bulnes
+developer.url=http://brunobulnes.tumblr.com
+
+view.file=view.ftl
+edit.file=edit.ftl
+
+locale.file.base.name=weather
+
+application.resource.css.1=/resources/css/weather-icons.min.css
+application.resource.css.2=/resources/css/weather-icons-wind.min.css
+application.resource.css.3=/resources/css/weather.css
+application.resource.js.4=/resources/js/weather-icons.js
+application.resource.js.5=/resources/js/weather.js
